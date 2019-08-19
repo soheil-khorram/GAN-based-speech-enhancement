@@ -1,4 +1,7 @@
-# Speech enhancement with GAN using pytorch
+# Author: Soheil Khorram
+# License: Simplified BSD
+
+# A pytorch implimentation of a GAN-based speech enhancement
 # To run this code you need to write the Dataset class which is a simple iterator
 
 import torch
